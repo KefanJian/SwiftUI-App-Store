@@ -15,7 +15,7 @@ Mock app store
   > Use a clear color to wrape the view.  
   >`Color.clear.overlay(the view)`  
   >[reference](https://swiftui-lab.com/animatablemodifier-inside-containers-bug/ "Title").
-* Can not get real size size for autosizing child view.
+* Can not get real size for autosizing child view.
   > User `GeometryReader` and `PreferenceChange` to redraw.  
   >[reference](https://stackoverflow.com/questions/56573373/swiftui-get-size-of-child/ "Title").
 * No way to get scroll view's offset (iOS 13).
